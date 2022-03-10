@@ -1,0 +1,19 @@
+.title{
+    font-size: 47px;
+    border-radius: 77px;
+    margin-top: 7.7px;
+    width: 77%;
+}
+
+.homebutn{
+    font-size: 37px;
+    width: 37%;
+    border-radius: 77px;
+    margin-bottom: 7.7px;
+    margin-top: 7.7px;
+}
+
+.back{
+    font-size: 17px;
+    float: right;
+}
